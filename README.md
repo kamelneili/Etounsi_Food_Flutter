@@ -9,4 +9,4 @@ Writing code in BLoC makes it easier to write and reuse tests.
 Clean architecture with bloc will solve your problem. Your code will become scalable maintainable and testable
 
 # Photos
-![mock3](https://user-images.githubusercontent.com/14231362/142599204-865d0eb5-a70a-48a3-b1d0-0a68cbd6d034.jpg)
+![iPhone 12 Mockup](https://user-images.githubusercontent.com/14231362/147697960-d1537f33-99a8-4a47-9edd-bc1556124be1.jpg)
